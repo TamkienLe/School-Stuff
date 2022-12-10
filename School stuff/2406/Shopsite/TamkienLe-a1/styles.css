@@ -1,0 +1,38 @@
+select {
+
+    position: default;
+    font-size: x-large;   
+  
+}
+
+.column {
+    float: left;
+}
+
+.left {
+    width: 25%;
+}
+
+.middle {
+    width: 40%;
+}
+
+.right {
+    width: 25%;
+}
+
+
+.right {
+    border: 1px solid black;
+    background-color: rgb(215, 215, 64);
+    padding: 20px;
+    /*centering the div*/
+    margin: 0 auto;
+    width: 200px;
+    
+}
+h3{
+    color : rgb(147, 69, 69);
+}
+
+
